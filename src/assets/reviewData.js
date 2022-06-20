@@ -6,7 +6,7 @@ export const reviewData = [
     },
     {
         review:
-            "If you are interested in booking an appointment or have questions, please contact us at (617) 380-8556",
+            "If you are interested in booking an appointment or have questions, please contact us at (617) 380-8556 for inquiries",
         name: 'J',
     },
     {
