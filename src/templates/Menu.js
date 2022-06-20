@@ -1,10 +1,11 @@
 import React from 'react';
 import { menuData } from '../assets/menuData';
-import serviceimage from "../assets/service-image.jpg";
+import serviceImage from "../assets/service-image.jpg";
 
 const Menu = () => {
 	return (
 		<section className='mx-auto max-w-prose flex flex-col mt-8 mb-24 px-4'>
+			<img className="mb-8" alt="Service Image" src={serviceImage} />
 			<article className='space-y-2'>
 				<h2 className='font-display text-3xl text-center my-4 font-bold'>Lash Services</h2>
 				{menuData.lashServices.map((item, index) => {
