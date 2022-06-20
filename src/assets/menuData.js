@@ -73,7 +73,10 @@ export const menuData = {
         { name: 'All FullSets are currently 20% off' },
         { name: 'Blade and Shade combo is $300 off' },
         { name: 'Microblading is $300 off' },
-
+        { name: '', price: '' },
+        { name: '', price: '' },
+        { name: '', price: '' },
+        { name: '', price: '' },
     ],
 
 };
