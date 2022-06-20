@@ -1,13 +1,13 @@
-import GalleryTile from '../molecules/GalleryTile';
+import GalleryTile from '../menus/GalleryTile';
 
-import tile1 from '../assets/gallery/tile1.jpeg';
-import tile2 from '../assets/gallery/tile2.jpeg';
-import tile3 from '../assets/gallery/tile3.jpeg';
-import tile4 from '../assets/gallery/tile4.jpeg';
-import tile5 from '../assets/gallery/tile5.jpeg';
-import tile6 from '../assets/gallery/tile6.jpeg';
-import tile7 from '../assets/gallery/tile7.jpeg';
-import tile8 from '../assets/gallery/tile8.jpeg';
+import tile1 from '../assets/gallery/tile1.jpg';
+import tile2 from '../assets/gallery/tile2.jpg';
+import tile3 from '../assets/gallery/tile3.jpg';
+import tile4 from '../assets/gallery/tile4.jpg';
+import tile5 from '../assets/gallery/tile5.jpg';
+import tile6 from '../assets/gallery/tile6.jpg';
+import tile7 from '../assets/gallery/tile7.jpg';
+import tile8 from '../assets/gallery/tile8.jpg';
 
 const Gallery = () => {
 	return (

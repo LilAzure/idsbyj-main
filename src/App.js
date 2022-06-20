@@ -1,12 +1,12 @@
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 
-import Header from './organisms/Header';
-import Hero from './organisms/Hero';
-import Gallery from './organisms/Gallery';
-import Services from './organisms/Services';
-import About from './organisms/About';
-import Location from './organisms/Location';
-import Footer from './organisms/Footer';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Gallery from './components/Gallery';
+import Services from './components/Services';
+import About from './components/About';
+import Location from './components/Location';
+import Footer from './components/Footer';
 import Menu from './templates/Menu';
 
 const App = () => {

@@ -1,5 +1,5 @@
 import React from 'react';
-import DesktopMenuAnchor from '../atoms/DesktopMenuAnchor';
+import DesktopMenuAnchor from '../utils/DesktopMenuAnchor';
 
 const DesktopMenu = () => {
 	const handleClick = (id) => {

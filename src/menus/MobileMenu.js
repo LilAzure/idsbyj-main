@@ -1,4 +1,4 @@
-import MobileMenuAnchor from '../atoms/MobileMenuAnchor';
+import MobileMenuAnchor from '../utils/MobileMenuAnchor';
 
 const MobileMenu = ({ setOpen, isOpen }) => {
 	const handleClick = (id) => {

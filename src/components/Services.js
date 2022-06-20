@@ -3,13 +3,9 @@ import { Link } from 'react-router-dom';
 
 const Services = () => {
 	const services = [
-		'Nail Services',
-		'Shellac Nails',
-		'Kids Packages',
-		'Pedicures',
-		'Manicures',
-		'Waxing & Threading',
-		'Facials',
+		'Lashes',
+		'Brows',
+		'Waxing',
 	];
 
 	return (

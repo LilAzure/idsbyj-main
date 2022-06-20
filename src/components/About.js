@@ -15,8 +15,8 @@ const About = () => {
 				<div className='md:w-1/2 py-8 flex flex-col justify-center items-center'>
 					<h1 className='font-display text-3xl md:text-4xl mb-2 font-bold'>About Us</h1>
 					<p className='text-center'>
-						We are a family owned business that takes pride in serving the Houston community for
-						over 20 years.
+						iDesigns Studio by J is dedicated to giving you the best
+						beauty service for your lash, brow, and waxing needs.
 					</p>
 				</div>
 			</div>
