@@ -1,21 +1,38 @@
 export const menuData = {
   lashServices: [
-        { name: 'Classic Full Set', price: '$195' },
-        { name: '2 Week Fill', price: '$75' },
+        { name: 'CLASSIC LASHING is a method where one lash extension is adhered to one natural lash. This method is also known as 1 to 1 or 1:1. Classic lashes are perfect for clients who  want to add more length and volume. This method creates a very natural and beautiful look.', price: '' },
+        { name: '', price: '' },
+        { name: '====================================', price: '' },
+        { name: '', price: '' },
+        { name: 'Classic FullSet', price: '$195' },
+        { name: '1-2 Week Fill', price: '$75' },
+        { name: '2-3 Week Fill', price: '$100' },
         { name: 'Special Occasion Fill', price: '$50' },
         { name: 'Lash Removal', price: '$50' },
         { name: '', price: '' },
         { name: '====================================', price: '' },
         { name: '', price: '' },
-        { name: 'Hybrid Full Set', price: '$250' },
-        { name: '2 week Fill', price: '$100' },
-        { name: '3 week fill', price: '$125' },
+        { name: 'HYBRID VOLUME LASHING is our signature technique where classic and volume collide.  This combination is not only more affordable but is a perfect balance between a glamorous and natural look.', price: '' },
         { name: '', price: '' },
         { name: '====================================', price: '' },
         { name: '', price: '' },
-        { name: 'Standard Volume Full Set', price: '$325' },
-        { name: '2 Week Fill', price: '$125' },
-        { name: '3 Week Fill', price: '$145' },
+        { name: 'Hybrid Volume FullSet', price: '$250' },
+        { name: '1-2 Week Fill', price: '$100' },
+        { name: '2-3 Week fill', price: '$125' },
+        { name: '', price: '' },
+        { name: '====================================', price: '' },
+        { name: '', price: '' },
+        { name: 'STANDARD VOLUME LASHING is a method where multiple light-weight lashes are applied to one single natural eyelash. If two eyelash extensions are applied to one natural lash it is described as 2D, if three eyelash extensions are applied to one natural eyelash then it is described as 3D etc.  Volume lashes are lighter, fluffier and give the client a fuller look. Volume lashes are prefect for clients who have sparse lashes, bald spots or just want a more dramatic and thicker look. ', price: '' },
+        { name: '', price: '' },
+        { name: '====================================', price: '' },
+        { name: '', price: '' },
+        { name: 'Standard Volume FullSet', price: '$325' },
+        { name: '1-2 Week Fill', price: '$125' },
+        { name: '2-3 Week Fill', price: '$145' },
+        { name: '', price: '' },
+        { name: '====================================', price: '' },
+        { name: '', price: '' },
+        { name: 'LASH LIFT AND TINT is a lash enhancement that will give your natural lashes the appearance of being darker, thicker, and longer.  This treatment is an excellent alternative to eyelash extensions and can last up to 4-6 weeks.  ', price: '' },
         { name: '', price: '' },
         { name: '====================================', price: '' },
         { name: '', price: '' },
@@ -25,8 +42,13 @@ export const menuData = {
     ],
 
   browServices: [
-    { name: 'Coming Soon', price: '' },
-
+    { name: 'Microblading', price: '$650' },
+    { name: 'Retouch 2-3 Months', price: '$150' },
+    { name: 'Shading', price: '$650' },
+    { name: 'Retouch 2-3 Months', price: '$150' },
+    { name: 'Blade and Shade', price: '$750' },
+    { name: 'Retouch 2-3 Months', price: '$160' },
+    { name: 'Brows Lamination', price: '$120' },
   ],
 
   waxServices: [
@@ -45,4 +67,13 @@ export const menuData = {
     { name: 'Back', price: '$50' },
     { name: 'Chest', price: '$40' },
   ],
+
+    promotions: [
+        { name: 'To celebrate our grand opening, iDesigns Studio by J is offering:' },
+        { name: 'All FullSets are currently 20% off' },
+        { name: 'Blade and Shade combo is $300 off' },
+        { name: 'Microblading is $300 off' },
+
+    ],
+
 };

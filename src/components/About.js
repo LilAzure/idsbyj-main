@@ -9,7 +9,7 @@ const About = () => {
 				<img
 					className='object-fit shadow-md mb-8 md:mr-8'
 					src={aboutImg}
-					alt='Two hands holding a heart shaped bouquet.'
+					alt='aboutimg'
 					loading='lazy'
 				/>
 				<div className='md:w-1/2 py-8 flex flex-col justify-center items-center'>

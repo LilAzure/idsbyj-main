@@ -3,7 +3,7 @@ const GalleryTile = ({ options, tile }) => {
 		<div className={`relative col-span-6 md:col-span-3 ${options}`}>
 			<img
 				src={tile}
-				alt='One of an assortment of manicured hands from the ZVI Nails Instagram.'
+				alt='Photos from our Instagram'
 				className='shadow-md'
 				loading='lazy'
 			/>

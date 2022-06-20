@@ -17,15 +17,15 @@ const Location = () => {
 						<div className='flex flex-col'>
 							<div className='flex justify-between'>
 								<p>Mon-Fri</p>
-								<p className='text-right ml-2'>10:00am-5:00pm</p>
+								<p className='text-right ml-2'>9:00am-8:00pm</p>
 							</div>
 							<div className='flex justify-between'>
 								<p>Saturday</p>
-								<p className='text-right ml-2'>10:00am-5:00pm</p>
+								<p className='text-right ml-2'>9:00am-8:00pm</p>
 							</div>
 							<div className='flex justify-between'>
 								<p>Sunday</p>
-								<p className='text-right ml-2'>10:00am-5:00pm</p>
+								<p className='text-right ml-2'>9:00am-8:00pm</p>
 							</div>
 						</div>
 					</div>
