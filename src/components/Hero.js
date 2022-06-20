@@ -20,11 +20,11 @@ const Hero = () => {
 				<img src={heroImg} alt="Store Image" />
 				<div className='bg-gray-50 flex flex-col justify-center items-center p-8 md:px-8'>
 					<span className='md:my-4 mb-1'>
+						{/* <i className='fas fa-star text-xs sm:text-base' />
 						<i className='fas fa-star text-xs sm:text-base' />
 						<i className='fas fa-star text-xs sm:text-base' />
 						<i className='fas fa-star text-xs sm:text-base' />
-						<i className='fas fa-star text-xs sm:text-base' />
-						<i className='fas fa-star text-xs sm:text-base' />
+						<i className='fas fa-star text-xs sm:text-base' /> */}
 					</span>
 					<h2 className='font-display sm:text-xl text-center'>"{reviewData[currIndex].review}"</h2>
 					<p className='sm:text-lg md:mt-4 mt-1 self-end'>—{reviewData[currIndex].name}</p>
