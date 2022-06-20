@@ -6,7 +6,7 @@ export const menuData = {
         { name: '', price: '' },
         { name: 'Classic FullSet', price: '$195' },
         { name: '1-2 Week Fill', price: '$75' },
-        { name: '2-3 Week Fill', price: '$100' },
+        { name: '2-3 Week Fill', price: '$95' },
         { name: 'Special Occasion Fill', price: '$50' },
         { name: 'Lash Removal', price: '$50' },
         { name: '', price: '' },
