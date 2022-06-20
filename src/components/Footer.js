@@ -2,7 +2,7 @@ const Footer = () => {
 	return (
 		<footer className='bg-gray-50 w-full flex flex-col justify-between items-center py-2 px-4'>
 			<div className='my-4'>
-				<h2 className='font-display text-2xl md:text-5xl text-center'>iDesign Studios by J</h2>
+				<h2 className='font-display text-2xl md:text-5xl text-center'>iDesigns Studio by J</h2>
 			</div>
 			<div className='my-4 flex items-center'>
 				<p className='text-lg md:text-2xl'>Find us on Instagram</p>

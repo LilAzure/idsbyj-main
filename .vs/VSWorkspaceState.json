@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\Components",
+    "\\src\\hooks",
+    "\\src\\menus",
+    "\\src\\templates",
+    "\\src\\utils"
+  ],
+  "SelectedNode": "\\src\\templates\\Menu.js",
+  "PreviewInSolutionExplorer": false
+}
