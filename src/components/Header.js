@@ -35,14 +35,16 @@ const Header = () => {
 
 	return (
 		<div className='sticky top-0 bg-gray-50 z-10'>
-			<header className='container w-8/12 h-5/12 mx-auto mb-8 mt-6 px-4 py-2 flex justify-between items-end text-gray-900'>
+			<header className='container mx-auto mb-8 mt-6 px-4 py-2 flex justify-between items-center text-gray-900'>
 				<Link
 					to='/'
-					className='text-5xl font-display mr-8'
+					className='text-1xl font-display mr-8'
 					onClick={() => setTimeout(() => window.scrollTo(0, 0), 250)}
 					aria-label='Clicking this logo takes you to the top of the page'
 				>
-					<img src={logo} alt="header logo" />
+					{/* iDesigns Studio By J */}
+					<img class='object-contain h-32 w-full container'
+						src={logo} alt="header logo" />
 				</Link>
 				{showMenu()}
 				<MobileMenu setOpen={setOpen} isOpen={isOpen} />

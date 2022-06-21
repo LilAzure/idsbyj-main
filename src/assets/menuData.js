@@ -76,7 +76,6 @@ export const menuData = {
         { name: '', price: '' },
         { name: '', price: '' },
         { name: '', price: '' },
-        { name: '', price: '' },
     ],
 
 };
