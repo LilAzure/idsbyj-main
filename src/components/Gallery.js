@@ -1,13 +1,13 @@
 import GalleryTile from '../menus/GalleryTile';
 
-import tile1 from '../assets/gallery/tile1.jpg';
-import tile2 from '../assets/gallery/tile2.jpg';
-import tile3 from '../assets/gallery/tile3.jpg';
-import tile4 from '../assets/gallery/tile4.jpg';
-import tile5 from '../assets/gallery/tile5.jpg';
-import tile6 from '../assets/gallery/tile6.jpg';
-import tile7 from '../assets/gallery/tile7.jpg';
-import tile8 from '../assets/gallery/tile8.jpg';
+import tile1 from '../assets/gallery/tile1.png';
+import tile2 from '../assets/gallery/tile2.png';
+import tile3 from '../assets/gallery/tile3.png';
+import tile4 from '../assets/gallery/tile4.png';
+import tile5 from '../assets/gallery/tile5.png';
+import tile6 from '../assets/gallery/tile6.png';
+import tile7 from '../assets/gallery/tile7.png';
+import tile8 from '../assets/gallery/tile8.png';
 
 const Gallery = () => {
 	return (
