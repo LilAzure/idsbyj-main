@@ -36,7 +36,8 @@ const Location = () => {
 						<address className='text-center md:text-left'>
 							320 Washington St, <br />
 							Norwell, MA 02061 <br />
-							(617) 380-8556
+							(617) 380-8556 <br />
+							idesignsstudio22@gmail.com
 						</address>
 					</div>
 				</div>
