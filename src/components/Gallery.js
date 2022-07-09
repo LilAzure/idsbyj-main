@@ -8,6 +8,7 @@ import tile5 from '../assets/gallery/tile5.png';
 import tile6 from '../assets/gallery/tile6.png';
 import tile7 from '../assets/gallery/tile7.png';
 import tile8 from '../assets/gallery/tile8.png';
+import noimage from '../assets/gallery/noimage.png';
 
 const Gallery = () => {
 	return (
@@ -18,8 +19,8 @@ const Gallery = () => {
 			<GalleryTile tile={tile4} options='' />
 			<GalleryTile tile={tile5} options='' />
 			<GalleryTile tile={tile6} options='' />
-			<GalleryTile tile={tile7} options='md:block hidden' />
-			<GalleryTile tile={tile8} options='md:block hidden' />
+			<GalleryTile tile={noimage} options='md:block hidden' />
+			<GalleryTile tile={noimage} options='md:block hidden' />
 		</section>
 	);
 };
