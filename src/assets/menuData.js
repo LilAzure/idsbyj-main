@@ -68,7 +68,7 @@ export const menuData = {
     { name: 'Chest', price: '$40' },
   ],
 
-    promotions: [
+   /* promotions: [
         { name: 'To celebrate our grand opening, iDesigns Studio by J is offering:' },
         { name: 'All FullSets are currently 20% off' },
         { name: 'Blade and Shade combo is $300 off' },
@@ -76,6 +76,6 @@ export const menuData = {
         { name: '', price: '' },
         { name: '', price: '' },
         { name: '', price: '' },
-    ],
+     ], */
 
 };

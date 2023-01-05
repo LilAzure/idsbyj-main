@@ -9,9 +9,4 @@ export const reviewData = [
             "iDesigns Studio by J's website is still under construction. However, we are in business and would love to hear from you!",
         name: 'J',
     },
-    {
-        review:
-            "We are having discounts on Full Set Services and more to celebrate our opening! Navigate over to our services page for more details.",
-        name: 'J',
-    },
 ];
